@@ -1,0 +1,3 @@
+﻿# Desktop only (optional):
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+# Optional GPU array: pip install cupy-cuda12x

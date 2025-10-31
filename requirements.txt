@@ -1,0 +1,10 @@
+﻿numpy
+scipy
+pandas
+scikit-image
+opencv-python-headless
+tifffile
+aicsimageio
+pyimagej==1.*
+tqdm
+click

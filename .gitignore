@@ -1,0 +1,7 @@
+﻿/.venv/
+/models/
+/data/full
+/notebooks/.ipynb_checkpoints
+/.idea/
+/.vscode/
+/.DS_Store

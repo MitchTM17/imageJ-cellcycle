@@ -1,5 +1,3 @@
-﻿# cellcycle
-
 Automated cell-cycle classification for microscopy images (Fiji + Python).
 
 ## Quickstart
